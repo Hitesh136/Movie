@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		FF011B0F23FAF65D006241BE /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = FF011B0E23FAF65D006241BE /* README.md */; };
+		FF011B1123FAFF8B006241BE /* demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = FF011B1023FAFF8A006241BE /* demo.gif */; };
 		FF56899723E7F60100533636 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF56899623E7F60100533636 /* AppDelegate.swift */; };
 		FF56899923E7F60100533636 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF56899823E7F60100533636 /* SceneDelegate.swift */; };
 		FF56899C23E7F60100533636 /* Movie.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FF56899A23E7F60100533636 /* Movie.xcdatamodeld */; };
@@ -47,6 +48,7 @@
 
 /* Begin PBXFileReference section */
 		FF011B0E23FAF65D006241BE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		FF011B1023FAFF8A006241BE /* demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demo.gif; sourceTree = "<group>"; };
 		FF56899323E7F60100533636 /* Movie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Movie.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF56899623E7F60100533636 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FF56899823E7F60100533636 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -117,6 +119,7 @@
 		FF56899523E7F60100533636 /* Movie */ = {
 			isa = PBXGroup;
 			children = (
+				FF011B1023FAFF8A006241BE /* demo.gif */,
 				FF75E48B23EB33A1000CD661 /* Model */,
 				FF75E48423EB3207000CD661 /* ServiceManager */,
 				FF75E48323EB31FD000CD661 /* DBManager */,
@@ -310,6 +313,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FF5689B223E7F96700533636 /* FHACondFrenchNC.otf in Resources */,
+				FF011B1123FAFF8B006241BE /* demo.gif in Resources */,
 				FF5689A623E7F60200533636 /* LaunchScreen.storyboard in Resources */,
 				FF5689B323E7F96700533636 /* FjallaOne-Regular.ttf in Resources */,
 				FF011B0F23FAF65D006241BE /* README.md in Resources */,

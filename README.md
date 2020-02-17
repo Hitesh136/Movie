@@ -8,3 +8,5 @@ Samble project for explore swiftUI. This project contains following topics.
 * SwiftUI with Alamofire
 * Swift Package Manager
 * Search functionality 
+
+![](/Movie/demo.gif)
